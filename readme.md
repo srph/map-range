@@ -1,4 +1,4 @@
-# map-range [![Build Status](https://img.shields.io/travis/srph/map-range.svg?style=flat-square)](https://travis-ci.org/srph/map-range?branch=master)
+# map-range [![Build Status](https://img.shields.io/travis/srph/map-range.svg?style=flat-square)](https://travis-ci.org/srph/map-range?branch=master) [![Latest Stable Version](https://poser.pugx.org/srph/map-range/v/stable)](https://packagist.org/packages/srph/map-range) [![Total Downloads](https://poser.pugx.org/srph/map-range/downloads)](https://packagist.org/packages/srph/map-range) [![Latest Unstable Version](https://poser.pugx.org/srph/map-range/v/unstable)](https://packagist.org/packages/srph/map-range) [![License](https://poser.pugx.org/srph/map-range/license)](https://packagist.org/packages/srph/map-range)
 ```
 composer require srph/map-range
 ```
