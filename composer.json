@@ -14,5 +14,6 @@
             "email": "seraphipod@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
