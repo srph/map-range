@@ -1,0 +1,18 @@
+{
+    "name": "srph/map-range",
+    "description": "A more efficient foreach-range",
+    "autoload": {
+        "files": ["src/index.php"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "srph",
+            "email": "seraphipod@gmail.com"
+        }
+    ],
+    "require": {}
+}
