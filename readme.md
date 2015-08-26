@@ -14,7 +14,7 @@ SRPH\MapRange\map_range(function($index) {
 
 For PHP >=v5.6, you can use the use function (aka import function) syntax:
 
-```
+```php
 use function SRPH\MapRange\map_range;
 
 map_range(function($index) {
